@@ -47,6 +47,3 @@ pip3 install mysql.connector
 | -h | Exibe a ajuda|
 
 
-![FB](https://raw.githubusercontent.com/leonardor666/images/main/fb/fbmysql1.png)
-
-![FB](https://raw.githubusercontent.com/leonardor666/images/main/fb/fbmysql2.png)
