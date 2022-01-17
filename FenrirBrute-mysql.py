@@ -16,8 +16,8 @@ def banner():
 
 	Desenvolvido por:
 
-        Leonardo Toledo
-        https://github.com/leonardor666
+        H41stur
+        https://github.com/h41stur
 
         ---------------------------------------------------------------------------
 """)
